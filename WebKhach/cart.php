@@ -272,7 +272,7 @@
 			</script>
             <form action="./checkout.php" method="post" class="aa" onSubmit="return kt();">
                 <div class="form-group">
-                    <label for="">Họ tên</label>
+                    <label for="">Họ và tên</label>
                     <input type="text" name="tHoten" id="hoten" class="form-control">
                 </div>
                 <div class="form-group">
