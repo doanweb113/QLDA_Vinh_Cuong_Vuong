@@ -148,7 +148,7 @@
                         </select>
                     </p>
                     <div class="submit">
-                        <button type="submit" name="btn-update"><strong>UPDATE</strong></button>
+                        <button type="submit" name="btn-update"><strong>Cập nhật</strong></button>
                         <button type="submit" name="btn-cancel"><strong>Cancel</strong></button>
                     </div>
                 </form>
